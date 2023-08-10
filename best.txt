@@ -17,3 +17,4 @@ answer:git branch -d Branch_Name or git branch -D Branch_Name
 How do merge conflicts happen?
 answer: When there have been different commit changes to the same file, Git gets confused and doesn't know which to merge
 
+I made a new branch!
