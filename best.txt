@@ -1,3 +1,4 @@
+
 PART I
 Answer the following questions:
 
@@ -16,7 +17,3 @@ answer:git branch -d Branch_Name or git branch -D Branch_Name
 How do merge conflicts happen?
 answer: When there have been different commit changes to the same file, Git gets confused and doesn't know which to merge
 
-Part II
-Practice with fast forward and recursive merges! Make a branch and add and commit onto it and merge it back into master.
-
-Try to create your own merge conflict by modifying the same file on two separate commits on two separate branches.
